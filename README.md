@@ -17,3 +17,9 @@ Hello, world.
 
 Transcription complete.
 ```
+
+## Voxtral TTS
+
+To do: must modify `quantize_marlin` for `mistralai/Voxtral-4B-TTS-2603`.
+
+The script currently uses RTN (Round-To-Nearest) with Marlin-packed INT4.
