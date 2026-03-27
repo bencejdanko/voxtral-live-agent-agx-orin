@@ -23,3 +23,5 @@ Transcription complete.
 To do: must modify `quantize_marlin` for `mistralai/Voxtral-4B-TTS-2603`.
 
 The script currently uses RTN (Round-To-Nearest) with Marlin-packed INT4.
+
+Exercise: Use an additional sign-bit residual error connection technique (4bits -> 1+4bits) [released by Google Deepmind](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
